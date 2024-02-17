@@ -29,7 +29,7 @@
   "GENDER": "MALE",
   "nickNameBot": "AnYa",
   "FACEBOOK": "https://www.facebook.com/yukinori.69",
-  "prefix": "*",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
